@@ -1,0 +1,17 @@
+Date,State,Confirmed,Active,Recovered,Deaths,Gender,Age
+2020-03-15,Tamil Nadu,5,4,1,0,Male,35
+2020-03-16,Tamil Nadu,8,6,2,0,Female,28
+2020-03-17,Tamil Nadu,10,8,2,0,Male,42
+2020-03-18,Karnataka,7,6,1,0,Female,33
+2020-03-19,Karnataka,12,9,2,1,Male,50
+2020-03-20,Kerala,20,16,4,0,Male,24
+2020-03-21,Kerala,27,20,6,1,Female,30
+2020-03-22,Maharashtra,35,30,4,1,Male,45
+2020-03-23,Maharashtra,55,48,6,1,Female,37
+2020-03-24,Delhi,40,35,4,1,Male,29
+2020-03-25,Delhi,70,60,8,2,Female,41
+2020-03-26,West Bengal,18,14,3,1,Female,32
+2020-03-27,West Bengal,25,21,3,1,Male,56
+2020-03-28,Gujarat,30,25,4,1,Male,47
+2020-03-29,Gujarat,50,42,6,2,Female,38
+
